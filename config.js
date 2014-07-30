@@ -1,11 +1,11 @@
 var theme =
 {
-    logo: '[YOUR LOGO]',
+    logo: 'graph.facebook.com/taikai.takeda/picture',
     author: {
-        github: 'https://github.com/[YOUR ACCOUNT]',
-        twitter: 'https://twitter.com/[YOUR ACCOUNT]',
-        linkedin: 'http://linkedin.com/in/[YOUR ACCOUNT]',
-        email: 'mailto:[YOUR EMAIL]'
+        github: 'https://github.com/seataK',
+        twitter: 'https://twitter.com/BigSea____',
+        linkedin: 'http://linkedin.com/in/',
+        email: 'mailto:297.1951@gmail.com'
     },
     disqus: {
         shortname: '[YOUR DISQUS SHORTNAME]'
