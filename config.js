@@ -1,6 +1,6 @@
 var theme =
 {
-    logo: 'graph.facebook.com/taikai.takeda/picture',
+    logo: 'http://graph.facebook.com/taikai.takeda/picture',
     author: {
         github: 'https://github.com/seataK',
         twitter: 'https://twitter.com/BigSea____',
