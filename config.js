@@ -4,7 +4,7 @@ var theme =
     author: {
         github: 'https://github.com/seataK',
         twitter: 'https://twitter.com/BigSea____',
-        linkedin: 'http://linkedin.com/in/',
+        linkedin: 'http://www.linkedin.com/pub/taikai-takeda/99/568/6b8',
         email: 'mailto:297.1951@gmail.com'
     },
     disqus: {
